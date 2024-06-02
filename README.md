@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Veri Tabanı
+
+db klasörünün altındaki json dosyasını localhost:3000 üzerinden yayınlarsanız otomatik olarak bağlanacaktır.
+Bunun için json-server kütüphanesi kullanılabilir.
+
 ## Available Scripts
 
 In the project directory, you can run:
