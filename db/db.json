@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "categoryId": 2,
+      "productName": "Telefon",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitsInStock": 53
+    },
+    {
+      "productId": 2,
+      "categoryId": 1,
+      "productName": "Bilgisayar",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": "21",
+      "unitsInStock": 17
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "bevareges"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Yemek",
+      "seoUrl": "Test"
+    }
+  ]
+}
